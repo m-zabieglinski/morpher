@@ -1,5 +1,5 @@
 # Morpher
-An excercise in function dictionaries. Instance of Morpher class is holds an object that can be later morphed using one of the available functions and some other object.
+An excercise in function dictionaries. Instance of Morpher class holds an object that can be later morphed using one of the available functions and some other object.
 
 **morpher.py** contains the class itself
 
